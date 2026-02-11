@@ -21,11 +21,11 @@
 
 
             #region After Using Mediator
-            After.TextBox textBox = new After.TextBox();
-            After.Dialog dialog = new After.Dialog();
-            After.Mediator mediator = new After.Mediator(textBox, dialog);
-            After.Button button = new After.Button(mediator);
-            button.Click();
+            //After.TextBox textBox = new After.TextBox();
+            //After.Dialog dialog = new After.Dialog();
+            //After.Mediator mediator = new After.Mediator(textBox, dialog);
+            //After.Button button = new After.Button(mediator);
+            //button.Click();
             #endregion
 
 
